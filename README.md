@@ -13,8 +13,8 @@
 2. Extract the package (if you cloned this repo).
 3. Open new Terminal, Command Promt window in extracted directory.
 4. Run `python3 warp.py`.
-5. It will ask you to enter you account ID, **21a08985-d036-4acf-8aa6-257e3d8e5e4c**.
-6. Enjoy :)
+5. It will ask you to enter you account ID, **c8823207-d3e9-4b49-ba01-a480f932d5f9**.
+7. Enjoy :)
 
 # How to get your ID:
 1. Open 1.1.1.1 App.
